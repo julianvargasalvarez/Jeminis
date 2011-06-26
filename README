@@ -1,1 +1,5 @@
-Hello world
+Jeminis is a domain specific language (DSL) for automatic code generation.
+If you use relational databases in your projects and need to automate and simplify
+the process of writing code for your business certainly this is just what you need.
+
+Requirements: Python 2.7
