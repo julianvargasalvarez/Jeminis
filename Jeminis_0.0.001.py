@@ -697,7 +697,4 @@ class form(Frame):
             btn.grid(row=self.rows, column=self.columnForControl)
             self.columnForControl += 1
             btn.bind("<Button-1>", self.context.__getattribute__(handlerName))
-            
             return btn
-
-
